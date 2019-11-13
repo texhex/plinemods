@@ -1,0 +1,20 @@
+Example:
+
+* Make Horn = 2 x Horn (116$) from one Steel (81$) in 2200ms (from tasks.csv file, not simulation time) 
+* Requires 6 Employees (Production Worker) = 75$/hour wage
+* One hour simulation time is 120,000ms
+
+> Facility can run ~54.5 times in one hour (120.000ms/2200ms)
+  Requires steel = ~54.5 * 81$ = 4.414.5$
+  Requires wages = 6 x 75$ = 450$
+  (Power demand ignored)
+ 
+> Production Rate = ~54.5 * 2 = 109 horns/hr for 4.864.5$ (steel + wages)
+  vs. imported horns  = 109 * 116$ = 12.644$
+
+= Makeing the horns only costs at about ~38.5% compared to buying them
+ 
+
+
+
+
