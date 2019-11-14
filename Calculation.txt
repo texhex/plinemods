@@ -13,6 +13,11 @@ Example:
   vs. imported horns  = 109 * 116$ = 12.644$
 
 = Makeing the horns only costs at about ~38.5% compared to buying them
+= For airbags, this is ~58% 
+= For servos, it's ~40,7%
+
+
+-> We have a range of 40% to 60%
  
 
 
