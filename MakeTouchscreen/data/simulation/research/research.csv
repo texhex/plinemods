@@ -1,0 +1,3 @@
+token,name,parent,icon,,type,unlocks,,ignore_auto_requirements,
+#,research_manufacture_touchscreen,research_dashboard_specialization,tp_press.dds,9800,PROCESS,task_make_touchscreen
+#,research_manufacture_large_touchscreen,research_manufacture_touchscreen,tp_press.dds,12500,PROCESS,make_large_touchscreen

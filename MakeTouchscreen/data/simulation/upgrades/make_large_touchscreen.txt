@@ -1,0 +1,19 @@
+[config]
+name = make_large_touchscreen
+texture = gui_cash.dds
+cost = 22200
+
+[effect0]
+value = 1150
+type = SU_ABS_SPEED
+
+[resources]
+silicon = 1
+glass = 2
+chip = 2
+sensor = 2
+
+[exports]
+touchscreen = -2
+large_touchscreen = 2
+
