@@ -25,8 +25,8 @@ This repository includes the following:
 * For example, if you want to use [MakeHeater](https://github.com/texhex/plinemods/tree/master/MakeHeater), just copy the folder ``MakeHeater`` into the ``mods`` folder
 * The entire path for this mod would therefore be ``C:\Users\John\Documents\My Games\productionline\mods\MakeHeater``
 * Please note: Copy the entire folder from the ZIP directly to the ``mods``, including any subfolders.
-* To check if it worked, click the *Mods* entry within the main menu
 
+To check if the installation worked, click the *Mods* entry within the main menu.
 
 ## Contributions
 
