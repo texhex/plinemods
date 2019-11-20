@@ -1,6 +1,6 @@
 # PLineMods
 
-Some mods for the [Production Line](https://www.positech.co.uk/productionline/) game from [Positech Games](http://www.positech.co.uk/) to allow a higher vertical integration level.
+Some mods for the [Production Line](https://www.positech.co.uk/productionline/) game from [Positech Games](http://www.positech.co.uk/) to allow a higher level of vertical integration.
 
 ## Contents
 
