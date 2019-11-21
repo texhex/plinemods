@@ -2,4 +2,4 @@
 EXAMPLE ,task_make_wingmirrors,2800,tp_make_wingmirror.dds,36125,155,floor_hazard_01.dds,28,0,87,0
 EXAMPLE ,task_make_horns,2200,tp_make_horn.dds,36125,166,floor_hazard_01.dds,28,0,77,0
 
-#,task_make_speaker,3100,tp_press.dds,36125,147,floor_hazard_01.dds,28,0,77,0
+#,task_make_speaker,15500,tp_press.dds,36125,147,floor_hazard_01.dds,28,0,77,0
